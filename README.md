@@ -1,5 +1,9 @@
 <!-- PROJECT INTRO -->
 
+### "Fork" of [OrpheusDL](https://github.com/yarrm80s/orpheusdl) that "fixes" downloading from SoundCloud.
+Just me learning how to pull request. Probably won't be maintained.
+### Original readme:
+
 OrpheusDL - SoundCloud
 =================
 
@@ -35,7 +39,7 @@ Follow these steps to get a local copy of Orpheus up and running:
 
 ### Prerequisites
 
-* Already have [OrpheusDL](https://github.com/yarrm80s/orpheusdl) installed
+* Already have installed
 
 ### Installation
 
