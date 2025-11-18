@@ -1,6 +1,6 @@
 <!-- PROJECT INTRO -->
 
-### "Fork" of [OrpheusDL](https://github.com/yarrm80s/orpheusdl) that "fixes" downloading from SoundCloud.
+### "Fork" of [OrpheusDL-SoundCloud](OrfiDev/orpheusdl-soundcloud) that "fixes" metadata acquisition.
 Just me learning how to pull request. Probably won't be maintained.
 ### Original readme:
 
